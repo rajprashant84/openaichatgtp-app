@@ -2,6 +2,43 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# ChatGPT Web App
+
+This project is a web-based chat application that integrates OpenAI's GPT-3.5 to provide a seamless and interactive chatting experience. The application allows users to send messages and receive responses from GPT-3.5, simulating a real conversation.
+
+## Features
+
+- **Interactive Chat Interface**: Real-time chat interface similar to modern messaging apps.
+- **OpenAI GPT-3.5 Integration**: Utilizes the GPT-3.5 API to generate human-like responses.
+- **Responsive Design**: Optimized for desktop use with a clean and intuitive layout.
+- **Error Handling**: Properly handles errors and provides feedback to the user.
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **Axios**: A promise-based HTTP client for making API requests.
+- **CSS**: Styling the application for a clean and responsive design.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js (v12 or higher)
+- npm (v6 or higher) or yarn
+- OpenAI API Key
+
+### Installation
+
+1. **Clone the repository**:
+
+   ```sh
+   git clone https://github.com/<USERNAME>/chatgpt-web-app.git
+   cd chatgpt-web-app
+
+
 ## Available Scripts
 
 In the project directory, you can run:
